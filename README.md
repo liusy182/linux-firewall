@@ -1,3 +1,3 @@
-# linux_firewall
+# linux-firewall
 a simple firewall for linux
  
